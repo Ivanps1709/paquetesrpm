@@ -3,4 +3,4 @@
 
 # Índice
 
-1. [Introducción](Introdución.md)
+## 1. [Introducción](Introdución.md)
