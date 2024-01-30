@@ -3,7 +3,7 @@
 
 # Índice
 
-## 1. [Introducción](Introdución.md)
+## 1. [Introducción](Introducción.md)
 ## 2. [Distribución_Rocky_Linux](Distribución_Rocky_Linux.md)
 ## 3. [Repositorios](Repositorios.md)
 ## 4. [Caso_Practico](Caso_Practico.md)
